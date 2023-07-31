@@ -15,5 +15,6 @@ TCATuist는 Tuist와 The Composable Architecture (TCA)를 활용하여 구축된
 1. 저장소를 클론합니다.
 2. 터미널에서 프로젝트 디렉토리로 이동합니다.
 3. 터미널에서 아래 명령어를 차례대로 입력하고 실행합니다:
+   ```shell
    tuist fetch
    tuist generate
