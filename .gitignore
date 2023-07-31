@@ -1,0 +1,3 @@
+*.xcodeproj
+*.xcworkspace
+/Tuist/Dependencies/SwiftPackageManager/.build
